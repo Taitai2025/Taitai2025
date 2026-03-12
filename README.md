@@ -1,4 +1,11 @@
-## Hi there 👋
+# 泰泰 (Thomas) 👋
+
+- 🎓 **本科**: 中国科学技术大学 (USTC) · 数学科学学院
+- 🎯 **直博 (拟录取)**: 中国科学院数学与系统科学研究院 (CAS AMSS) · 计算数学
+- 🎼 **艺术**: 中国科大学生民族乐团团长 · 高音笙演奏员
+- 🔗 **个人主页**: [https://taitai2025.github.io/](https://taitai2025.github.io/)
+
+*“玉树临风美少年，揽镜自顾夜不眠。”*
 
 <!--
 **Taitai2025/Taitai2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
